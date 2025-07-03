@@ -10,13 +10,6 @@
   <img src="files/overview.gif"/>
 </p>
 
-- Complete videos: 
-  (We will upload it to YouTube as soon as possible)
-
-To run this project in minutes, check [Quick Start](#1-Quick-Start). Check other sections for more detailed information.
-
-Please kindly star :star: this project if it helps you. We take great efforts to develop and maintain it :grin::grin:.
-
 
 
 
